@@ -3,7 +3,7 @@
 <title>Test DevOps</title>
 </head>
 <body>
-    <center><?php echo '<p>HELLO MR HAMZA  </p>'; ?>
+    <center><?php echo '<p>HELLO MR HAMZA VERSION 2 </p>'; ?>
  </center>
 
 </body>
